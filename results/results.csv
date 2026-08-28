@@ -1,0 +1,11 @@
+Mode,TTL,Average Latency (ms),P95 Latency (ms),Cache Hit Ratio (%),Cache Hits,Total Queries
+recursive,5,37.922,67,46.9,938,2000
+recursive,10,27.413,67,63.85,1277,2000
+recursive,20,19.508,67,76.6,1532,2000
+recursive,30,16.346,67,81.7,1634,2000
+recursive,60,12.006,67,88.7,1774,2000
+recursive,120,9.154,67,93.3,1866,2000
+recursive,300,6.953,5,96.85,1937,2000
+
+recursive,30,16.47,67,81.5,1630,2000
+iterative,30,15.317,62,81.9,1638,2000
